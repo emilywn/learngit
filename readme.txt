@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git test second.
 This file will be changed and added to stage.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
